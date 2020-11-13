@@ -43,6 +43,7 @@ IPs used (Xilinx):
         • Add mode: Add
         • Output Width: 32
 
+Board: Basys 3
 
 Post Synthesis performance report:
 
